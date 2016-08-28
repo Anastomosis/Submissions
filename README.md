@@ -10,3 +10,4 @@ All submissions must be peer-reviewed by at least 2 peers, whom have a public re
 Submissions are exclusively judged only on the quality of submitted work and contributions in discussions.
 
 
+### Review Guidelines
